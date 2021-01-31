@@ -750,15 +750,15 @@
       "image":"https://godev3.github.io/animewallpaper/bokunohero/boku%20no%20hero%20(100).jpg"
     },
 	{
-      "id":1,
-      "id_wall":"001",
+      "id":101,
+      "id_wall":"00101",
       "nama_cat": "DEMON SLAYER",
       "judul":"DEMON SLAYER",
       "image":"https://godev3.github.io/animewallpaper/demonslayer/demon%20slayer%20(1).jpg"
     },
 	{
-      "id":2,
-      "id_wall":"002",
+      "id":102,
+      "id_wall":"00102",
       "nama_cat": "DEMON SLAYER",
       "judul":"DEMON SLAYER",
       "image":"https://godev3.github.io/animewallpaper/demonslayer/demon%20slayer%20(2).jpg"
