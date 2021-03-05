@@ -16,8 +16,8 @@
         "status_promote": "0",
         
         "interval": 1,
-        "inter_splash":"0",
-        "pengaturan_iklan":"4",
+        "inter_splash":"1",
+        "pengaturan_iklan":"1",
         
         "fan_inter":"981545408591412_999151030164183",
         "fan_banner_native":"981545408591412_2709037092508893",
@@ -28,7 +28,7 @@
         "inmobi_id":"1234567890qwerty0987654321qwerty12345",
         
         
-         "startaap":"1234567890"
+         "startaap":"202101544"
         
       
        
